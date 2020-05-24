@@ -1,0 +1,14 @@
+{
+  "name": "devtobi-portfolio",
+  "version": "1.0.0",
+  "description": "My portfolio webpage for tech users",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Tobi Adeyemi",
+  "license": "ISC"
+}
